@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stick game with delegates", "Stick game with delegates.csproj", "{95B0DA4C-40AF-4A7A-8012-AC6D8E7B6822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95B0DA4C-40AF-4A7A-8012-AC6D8E7B6822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B0DA4C-40AF-4A7A-8012-AC6D8E7B6822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B0DA4C-40AF-4A7A-8012-AC6D8E7B6822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B0DA4C-40AF-4A7A-8012-AC6D8E7B6822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88DD2F45-B48F-45C5-A586-BE9CC102B2C5}
+	EndGlobalSection
+EndGlobal
