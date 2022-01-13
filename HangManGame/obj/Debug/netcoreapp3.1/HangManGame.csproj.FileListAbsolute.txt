@@ -1,0 +1,15 @@
+F:\C#\DIFFERENT\HangManGame\bin\Debug\netcoreapp3.1\HangManGame.exe
+F:\C#\DIFFERENT\HangManGame\bin\Debug\netcoreapp3.1\HangManGame.deps.json
+F:\C#\DIFFERENT\HangManGame\bin\Debug\netcoreapp3.1\HangManGame.runtimeconfig.json
+F:\C#\DIFFERENT\HangManGame\bin\Debug\netcoreapp3.1\HangManGame.runtimeconfig.dev.json
+F:\C#\DIFFERENT\HangManGame\bin\Debug\netcoreapp3.1\HangManGame.dll
+F:\C#\DIFFERENT\HangManGame\bin\Debug\netcoreapp3.1\HangManGame.pdb
+F:\C#\DIFFERENT\HangManGame\obj\Debug\netcoreapp3.1\HangManGame.csproj.AssemblyReference.cache
+F:\C#\DIFFERENT\HangManGame\obj\Debug\netcoreapp3.1\HangManGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\DIFFERENT\HangManGame\obj\Debug\netcoreapp3.1\HangManGame.AssemblyInfoInputs.cache
+F:\C#\DIFFERENT\HangManGame\obj\Debug\netcoreapp3.1\HangManGame.AssemblyInfo.cs
+F:\C#\DIFFERENT\HangManGame\obj\Debug\netcoreapp3.1\HangManGame.csproj.CoreCompileInputs.cache
+F:\C#\DIFFERENT\HangManGame\obj\Debug\netcoreapp3.1\HangManGame.dll
+F:\C#\DIFFERENT\HangManGame\obj\Debug\netcoreapp3.1\HangManGame.pdb
+F:\C#\DIFFERENT\HangManGame\obj\Debug\netcoreapp3.1\HangManGame.genruntimeconfig.cache
+F:\C#\DIFFERENT\HangManGame\bin\Debug\netcoreapp3.1\WordsStockRus.txt

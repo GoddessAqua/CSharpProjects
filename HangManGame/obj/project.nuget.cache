@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5+u73NI8+Xlqv2ICpIKsHtW8q9IVo/riuL2W/YeP/4ezv1dwmbBs+JNGFVn5yCnWCqTp60MrE7190EOsrI8LWQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\DIFFERENT\\HangManGame\\HangManGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vika\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
