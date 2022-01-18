@@ -1,0 +1,17 @@
+F:\C#\DIFFERENT\Parsing of .csv with Linq\bin\Debug\net5.0\Parsing of .csv with Linq.exe
+F:\C#\DIFFERENT\Parsing of .csv with Linq\bin\Debug\net5.0\Parsing of .csv with Linq.deps.json
+F:\C#\DIFFERENT\Parsing of .csv with Linq\bin\Debug\net5.0\Parsing of .csv with Linq.runtimeconfig.json
+F:\C#\DIFFERENT\Parsing of .csv with Linq\bin\Debug\net5.0\Parsing of .csv with Linq.runtimeconfig.dev.json
+F:\C#\DIFFERENT\Parsing of .csv with Linq\bin\Debug\net5.0\Parsing of .csv with Linq.dll
+F:\C#\DIFFERENT\Parsing of .csv with Linq\bin\Debug\net5.0\ref\Parsing of .csv with Linq.dll
+F:\C#\DIFFERENT\Parsing of .csv with Linq\bin\Debug\net5.0\Parsing of .csv with Linq.pdb
+F:\C#\DIFFERENT\Parsing of .csv with Linq\obj\Debug\net5.0\Parsing of .csv with Linq.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\DIFFERENT\Parsing of .csv with Linq\obj\Debug\net5.0\Parsing of .csv with Linq.AssemblyInfoInputs.cache
+F:\C#\DIFFERENT\Parsing of .csv with Linq\obj\Debug\net5.0\Parsing of .csv with Linq.AssemblyInfo.cs
+F:\C#\DIFFERENT\Parsing of .csv with Linq\obj\Debug\net5.0\Parsing of .csv with Linq.csproj.CoreCompileInputs.cache
+F:\C#\DIFFERENT\Parsing of .csv with Linq\obj\Debug\net5.0\Parsing of .csv with Linq.dll
+F:\C#\DIFFERENT\Parsing of .csv with Linq\obj\Debug\net5.0\ref\Parsing of .csv with Linq.dll
+F:\C#\DIFFERENT\Parsing of .csv with Linq\obj\Debug\net5.0\Parsing of .csv with Linq.pdb
+F:\C#\DIFFERENT\Parsing of .csv with Linq\obj\Debug\net5.0\Parsing of .csv with Linq.genruntimeconfig.cache
+F:\C#\DIFFERENT\Parsing of .csv with Linq\bin\Debug\net5.0\chess.csv
+F:\C#\DIFFERENT\Parsing of .csv with Linq\obj\Debug\net5.0\Parsing of .csv with Linq.csproj.AssemblyReference.cache

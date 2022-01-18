@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F6C8Q4LsY43m+1RBlr2HWGkEgtnfCJr7Pz160vJTYFmF+Bsagol0PA79S9+tKkasTaNlicXnFlPLfNIeQkC1Nw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\DIFFERENT\\Parsing of .csv with Linq\\Parsing of .csv with Linq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vika\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Parsing of .csv with Linq/1.0.0": {
+        "runtime": {
+          "Parsing of .csv with Linq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parsing of .csv with Linq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
